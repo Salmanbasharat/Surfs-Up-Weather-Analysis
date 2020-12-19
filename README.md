@@ -39,4 +39,4 @@ The summary statistics tells us that there is a difference of 4° F in the mean 
 
 In this analysis, we learned that average precipitation level in December is 0.21 whereas in June it is 0.14 which means the average precipitation in December is 54% higher than June. 
 
-On the basis of the analysis of Temperatures and Precipitation levels in June and December, we feel more comfortable in making the correct decision of wether or not start the business there.
+On the basis of the analysis of Temperatures and Precipitation levels in June and December, we feel more comfortable in making the correct decision of whether or not start the business there.
